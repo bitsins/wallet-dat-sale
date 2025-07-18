@@ -42,10 +42,13 @@ All of the wallet.dat files above are sale for 0.02625 BTC on satoskidisk.com. O
 Here is the link for the files:
 
 https://satoshidisk.com/pay/COt1uS
+
 https://satoshidisk.com/pay/COt1uS
+
 https://satoshidisk.com/pay/COt1uS
+
 https://satoshidisk.com/pay/COt1uS
-https://satoshidisk.com/pay/COt1uS
+
 
 ### CONTACT ME ###
 
